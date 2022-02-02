@@ -1,2 +1,3 @@
-# gw150914-ringdown
-Analysis of GW150914 ringdown.
+# Revisiting the ringdown of GW150914
+
+Analysis of the GW150914 ringdown.

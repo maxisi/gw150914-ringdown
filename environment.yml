@@ -1,0 +1,24 @@
+name: gw150914-ringdown
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arviz
+  - astropy
+  - h5py
+  - ipython
+  - jupyterlab
+  - lalsuite
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pystan=2
+  - python=3
+  - scipy
+  - seaborn
+  - qnm
+  - parse
+  - wget
+  - pip:
+    - git+https://github.com/maxisi/ringdown.git
